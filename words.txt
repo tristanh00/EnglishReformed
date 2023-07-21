@@ -1,7 +1,7 @@
 OLD,NEW
 beauty,buty
 catalogue,catalog
-chief, cheef
+chief,cheef
 cream,creem
 definite,definit
 delete,deleet
@@ -25,8 +25,6 @@ thief,theef
 though,tho
 through,thru
 throughout,thruout
-tight,tite
-weird,weerd
 your,yor
 threat,thret
 grammar,grammer
@@ -34,8 +32,8 @@ said,sed
 great,grate
 wait,wate
 soup,soop
-rough,rouf
+rough,ruf
 photo,foto
-except,exept
 door,dor
-knight, nite
+knight,nite
+guarantee,garantee
